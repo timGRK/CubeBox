@@ -1,0 +1,1 @@
+nohup java -jar cloudy-1.0.1.jar >/dev/null 1>&1 &

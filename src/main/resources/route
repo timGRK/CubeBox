@@ -1,0 +1,7 @@
+/abc/test Test
+/led/status SetLedStatus
+/status GetLedStatus
+/leds ViewLeds
+/delay SetDelay
+/OtaServlet OtaProc
+/ShowOTAProcessServlet ShowOtaProc

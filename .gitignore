@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/.project
+/.classpath
+target
+.settings
+bin
+/pid
+/logs/
